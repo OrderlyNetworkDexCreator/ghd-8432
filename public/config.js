@@ -19,7 +19,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard,Rewards",
-  "VITE_CUSTOM_MENUS": "HiveSwap, https://pancakeswap.finance/swap",
+  "VITE_CUSTOM_MENUS": "HiveSwap, https://pancakeswap.finance/swap?inputCurrency=0x69e855cD0c7777bf1c1CaFAeA9bb5F883a5d6c89&outputCurrency=0x55d398326f99059fF775485246999027B3197955",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "true",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
